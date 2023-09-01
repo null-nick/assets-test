@@ -17,11 +17,11 @@
 
     The entire client is <a href='https://github.com/OctoGramApp/OctoGram' target='_blank'>open source</a> and complies with the <a href='https://core.telegram.org/reproducible-builds' target='_blank'>Reproducible Builds</a> offered by Telegram.
 
-    The site, intended as a custom project not dependent on Telegram, is also <a href='https://github.com/OctoGramApp/Website' target='_blank'>open source</a> and is based on the GPL-2.0 license that can be visited <a href='https://github.com/OctoGramApp/website/blob/main/LICENSE'>here</a>.
-
-    Use of personal data and permissions:
-
-    OctoGram has basic services, which are necessary for proper functioning. The app may be unstable if this is not the case.
+    The site, intended as a custom project not dependent on Telegram, is also <a href='https://github.com/OctoGramApp/Website' target='_blank'>open source</a> and is based on the GPL-2.0 license that can be visited <a href='https://github.com/OctoGramApp/website/blob/main/LICENSE'>here</a>.</body>
+  </card>
+  <card>
+    <title>Use of personal data and permissions:</title>
+    <body>OctoGram has basic services, which are necessary for proper functioning. The app may be unstable if this is not the case.
 
     The app is based on:
     - <a href='https://support.google.com/android/answer/10546414' target='_blank'>Google Play Services</a> and all references to it
@@ -63,16 +63,7 @@
   <card>
     <title>Further information on the Privacy Policy and changes made</title>
     <body>OctoGram is based on Telegram, consequently all the information set out in Telegram's Privacy Policy also applies to OctoGram, even if this policy indicates different information.
-
-    We reserve the right to change this policy without notice. Check this page frequently to stay up to date.
-
-    Latest changes:
-    - September 01, 2023: first publication and revision
-    - September 10, 2023: enforcement of privacy policy</body>
-  </card>
-  <card>
-    <title>Further information on the Privacy Policy and changes made</title>
-    <body>OctoGram is based on Telegram, consequently all the information set out in Telegram's Privacy Policy also applies to OctoGram, even if this policy indicates different information.
+    The site is fully hosted on Github Pages, therefore the <a href='https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection' target='_blank'>Github Privacy Policy</a> applies. 
 
     We reserve the right to change this policy without notice. Check this page frequently to stay up to date.
 
