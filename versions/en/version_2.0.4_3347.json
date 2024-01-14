@@ -1,0 +1,13 @@
+{
+    "status": "update_available",
+    "version": "2.0.4",
+    "versionCode": 3347,
+    "release_type": "beta",
+    "splash": "https://telegra.ph/file/ca4f141b15b3f8316c58b.png",    "note": null, 
+    "desc": "🐙 OctoGram <code>Beta</code>\r\n\r\nChanges:\r\n— Sync with Telegram 10.5.0 (4228)\r\n\r\nBugFix:\r\n— General BugFixes"
+    "arm64": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.4_3347/OctoGram_arm64.apk",
+    "arm32": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.4_3347/OctoGram_arm32.apk",
+    "x86": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.4_3347/OctoGram_x86.apk",
+    "x86_64": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.4_3347/OctoGram_x86_64.apk",
+    "universal": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.4_3347/OctoGram_universal.apk"
+}
