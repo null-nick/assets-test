@@ -56,7 +56,7 @@
     "DatacenterStatus": "Stato Datacenter",
     "DatacenterStatus_Desc": "Visualizza informazioni del datacenter",
     "DcIdHeader": "Datacenter e ID Utente",
-    "DcIdTypeDescription": "L'API di Telegram visualizza gli ID come sono, mentre l'API Bot introduce un segno \"-\" per gruppi e premette \"-100\" per supergruppi, gruppi broadcast e canali.",
+    "DcIdTypeDescription": "L'API di Telegram visualizza gli ID come sono, mentre la Bot API introduce un segno \"-\" per i gruppi e \"-100\" per supergruppi, gruppi broadcast e canali.",
     "DeleteContactSubtitle": "Vuoi eliminare questo contatto?",
     "DeleteContactTitle": "Elimina contatto",
     "DeleteContactsSubtitle": "Vuoi eliminare questi contatti?",
