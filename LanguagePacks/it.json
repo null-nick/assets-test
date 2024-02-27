@@ -1,7 +1,7 @@
 {
     "AccentColorAsNotificationColor": "Colore dell'accento come colore di notifica",
-    "AccountProtection": "Account Protection",
-    "AccountProtectionDesc": "Protect your accounts with a unique passcode. Tap the lock icon above your chat list to access them.",
+    "AccountProtection": "Protezione Account",
+    "AccountProtectionDesc": "Proteggi i tuoi account con un codice di blocco univoco. Per accedervi, tocca l'icona del lucchetto sopra la tua lista chat.",
     "AccountProtectionHint1": "Tap the lock icon above your chat list to access your hidden accounts.",
     "AccountProtectionHint2": "When an account is protected with a passcode, it will be hidden from the side menu.",
     "Acknowledge": "Riconoscimento",
@@ -54,7 +54,7 @@
     "CrashesDeleteConfirmation": "Vuoi eliminare %s log di crash? Questa azione è irreversibile",
     "CrashesDeleted": "I log di crash %s sono stati cancellati",
     "CrashesUnableToDelete": "Impossibile eliminare %s log di crash!",
-    "CreatePasscodeInfoPIN2": "Please enter any 4 digits that you will use to unlock your Telegram account.",
+    "CreatePasscodeInfoPIN2": "Inserisci le 4 cifre che userei per sbloccare il tuo account Telegram.",
     "CreatePasscodeInfoPassword2": "Please enter the password you will use to unlock your Telegram account.",
     "CurrentCameraXResolution": "Risoluzione attuale di CameraX",
     "CustomEmojiReaction": "Reazione emoji personalizzata",
