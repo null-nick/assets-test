@@ -35,7 +35,7 @@
     "DCSTATUS_SERVER_LAST_LAG": "Keterlambatan terakhir",
     "DCSTATUS_SERVER_STATUS_CONNECTING": "Menghubungkan...",
     "DCSTATUS_SERVER_STATUS_CREATINGKEYS": "Membuat kunci...",
-    "DCSTATUS_SERVER_STATUS_EXCHANGINGKEYS": "Menukar kunci...",
+    "DCSTATUS_SERVER_STATUS_EXCHANGINGKEYS": "Mengganti kunci...",
     "DCSTATUS_SERVER_STATUS_ONLINE": "Tersedia",
     "DCSTATUS_SERVER_TITLE": "Status terkini",
     "DCSTATUS_TITLE": "Periksa status Pusat Data Telegram secara real time.",
