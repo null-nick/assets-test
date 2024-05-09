@@ -285,7 +285,7 @@
     "UserRestrictionsNoSendInlineBots": "no inline bots",
     "VoiceImprovements": "Noise suppression in calls",
     "VoiceImprovements_Desc": "Enables noise suppression and voice normalization while in a call",
-    "WarningBeforeDeletingChatHistory": "Warning before deleting chat history",
+    "WarningBeforeDeletingChatHistory": "Avís abans d'esborrar l'historial del xat",
     "WarningBeforeDeletingChatHistory_Desc": "Create a warning before deleting chat history for a user (to avoid accidental deletions)",
     "ZeroShutter": "Zero shutter lag (experimental)",
     "ZeroShutter_Desc": "Enable zero shutter lag for CameraX"
