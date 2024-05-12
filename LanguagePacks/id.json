@@ -267,8 +267,8 @@
     "ShowRegistrationDate": "Tampilkan tanggal pendaftaran",
     "ShowRegistrationDate_Desc": "Tampilkan tanggal pendaftaran pengguna di profil. Perhatikan bahwa ini didapat melalui perkiraan, sehingga mungkin menunjukkan hasil yang tidak akurat",
     "ShowSnowflakes": "Tampilkan kepingan salju",
-    "ShowUserIconsInChatsList": "Show user icons in chats list",
-    "ShowUserIconsInChatsList_Desc": "Show user icons in chats list near sender name in groups.",
+    "ShowUserIconsInChatsList": "Tampilkan ikon pengguna dalam daftar obrolan",
+    "ShowUserIconsInChatsList_Desc": "Tampilkan ikon pengguna di daftar obrolan dekat nama pengirim di grup.",
     "ShowUsernameAsPhoneNumber": "Tampilkan nama pengguna sebagai nomor telepon",
     "ShowUsernameAsPhoneNumber_Desc": "Tampilkan nama pengguna Anda sebagai nomor telepon di profil Anda. Ini hanya akan ditunjukkan pada diri Anda sendiri!",
     "SlidingTitle": "Judul Bergulir",
@@ -326,7 +326,7 @@
     "VoiceImprovements": "Peredam kebisingan dalam panggilan",
     "VoiceImprovements_Desc": "Mengaktifkan peredam bising dan normalisasi suara saat dalam panggilan",
     "WarningBeforeDeletingChatHistory": "Peringatan sebelum menghapus riwayat obrolan",
-    "WarningBeforeDeletingChatHistory_Desc": "Create a warning before deleting chat history for a user (to avoid accidental deletions)",
+    "WarningBeforeDeletingChatHistory_Desc": "Buat peringatan sebelum menghapus riwayat obrolan untuk pengguna (untuk hindari penghapusan tanpa sengaja)",
     "ZeroShutter": "Zero shutter lag (percobaan)",
     "ZeroShutter_Desc": "Aktifkan zero shutter lag untuk CameraX"
 }
