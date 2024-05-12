@@ -274,7 +274,7 @@
     "SlidingTitle": "Judul Bergulir",
     "SlidingTitle_Desc": "Judul akan meluncur di layar jika terlalu panjang",
     "SmartNotificationsPvtDialogButton": "Enable smart notifications",
-    "SmartNotificationsPvtDialogMessage": "This option is, by default, disabled on the official Telegram clients and therefore in private chats all notifications were sent with sound or vibration.\n\nBy enabling it, the behavior of notifications will vary in all chats: as well as in groups, all private chats will default to 2 notifications every 3 minutes.",
+    "SmartNotificationsPvtDialogMessage": "Opsi ini, secara default, dinonaktifkan pada klien Telegram resmi dan oleh karena itu dalam obrolan pribadi semua notifikasi dikirim dengan suara atau getaran. \n\nDengan mengaktifkannya, tindakan notifikasi akan bervariasi di semua obrolan: serta dalam grup, semua obrolan pribadi akan beralih ke 2 notifikasi setiap 3 menit secara default.",
     "SmartNotificationsPvtDialogMessagePlus": "You can manage this option from OctoGram settings.",
     "SourceCode": "Lihat Kode Sumber",
     "StartWithRearCamera": "Mulai dengan kamera belakang",
