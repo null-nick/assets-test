@@ -325,7 +325,7 @@
     "UserRestrictionsNoSendInlineBots": "nessun bot inline",
     "VoiceImprovements": "Soppressione del rumore nelle chiamate",
     "VoiceImprovements_Desc": "Abilita la soppressione del rumore e la normalizzazione della voce durante una chiamata",
-    "WarningBeforeDeletingChatHistory": "Avvisa prima di eliminare la cronologia della chat",
+    "WarningBeforeDeletingChatHistory": "Avvisa prima di eliminare la cronologia",
     "WarningBeforeDeletingChatHistory_Desc": "Mostra un avviso prima di eliminare la cronologia della chat di un utente (per evitare eliminazioni accidentali)",
     "ZeroShutter": "Zero ritardo nello scatto (sperimentale)",
     "ZeroShutter_Desc": "Abilita zero ritardo nello scatto per CameraX"
