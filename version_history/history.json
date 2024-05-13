@@ -28,8 +28,10 @@
                 "universal": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.0_3301/OctoGram_universal.apk"
             }
         ],
+        "localizated_changelogs": [],
         "note": "",
-        "desc": "We welcome the new version of OctoGram 2.0.0\n\nWe've essentially rebuilt OctoGram from the ground up, using the default Telegram code. \nWhat does this mean? Quicker updates, and quicker bugfixes!\nThere are plenty of cool new features, like the ability to hide stories, hide dividers dividers, play around with custom emojis, and a bunch more.\n\nFor now, we've put OTA updates on pause (they'll be back on the second release, promise), and third-party translations have been removed (they're not forgotten, though).\n\nFrom this version on, the privacy policy is also available on the site. For more information, scroll to the bottom of the site."
+        "desc": "We welcome the new version of OctoGram 2.0.0\n\nWe've essentially rebuilt OctoGram from the ground up, using the default Telegram code. \nWhat does this mean? Quicker updates, and quicker bugfixes!\nThere are plenty of cool new features, like the ability to hide stories, hide dividers dividers, play around with custom emojis, and a bunch more.\n\nFor now, we've put OTA updates on pause (they'll be back on the second release, promise), and third-party translations have been removed (they're not forgotten, though).\n\nFrom this version on, the privacy policy is also available on the site. For more information, scroll to the bottom of the site.",
+        "beta": false
     },
     {
         "version": "2.2.0",
@@ -44,7 +46,14 @@
                 "universal": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.0_3301/OctoGram_universal.apk"
             }
         ],
+        "localizated_changelogs": [
+            {
+                "it": "bla Bla",
+                "en": "bla bla"
+            }
+        ],
         "note": "",
-        "desc": "We welcome the new version of OctoGram 2.0.0\n\nWe've essentially rebuilt OctoGram from the ground up, using the default Telegram code. \nWhat does this mean? Quicker updates, and quicker bugfixes!\nThere are plenty of cool new features, like the ability to hide stories, hide dividers dividers, play around with custom emojis, and a bunch more.\n\nFor now, we've put OTA updates on pause (they'll be back on the second release, promise), and third-party translations have been removed (they're not forgotten, though).\n\nFrom this version on, the privacy policy is also available on the site. For more information, scroll to the bottom of the site."
+        "desc": "We welcome the new version of OctoGram 2.0.0\n\nWe've essentially rebuilt OctoGram from the ground up, using the default Telegram code. \nWhat does this mean? Quicker updates, and quicker bugfixes!\nThere are plenty of cool new features, like the ability to hide stories, hide dividers dividers, play around with custom emojis, and a bunch more.\n\nFor now, we've put OTA updates on pause (they'll be back on the second release, promise), and third-party translations have been removed (they're not forgotten, though).\n\nFrom this version on, the privacy policy is also available on the site. For more information, scroll to the bottom of the site.",
+        "beta": true
     }
 ]
