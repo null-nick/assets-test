@@ -1,70 +1,23 @@
-[
-  {
-    "version": "2.0.0",
-    "versionCode": 3301,
-    "splash": "https://telegra.ph/file/ca4f141b15b3f8316c58b.png",
-    "files": {
-      "arm64": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.0_3301/OctoGram_arm64.apk",
-      "arm32": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.0_3301/OctoGram_arm32.apk",
-      "x86": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.0_3301/OctoGram_x86.apk",
-      "x86_64": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.0_3301/OctoGram_x86_64.apk",
-      "universal": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.0_3301/OctoGram_universal.apk"
-    },
-    "localized_changelogs": {
-      "en": "bla Bla"
+{
+  "channel_username": "r2YnFscExDf6d3h4wpGy8SbjqPLNk7vh",
+  "channel_id": -1002087211608,
+  "versions": [
+    {
+      "version": "2.2.0",
+      "versionCode": 3698,
+      "sticker": 4,
+      "files": {
+        "x86_64": 10,
+        "universal": 6,
+        "x86": 9,
+        "arm64-v8a": 7,
+        "armeabi-v7a": 8
+      },
+      "localized_changelogs": {
+        "it": "bla Bla",
+        "en": "We welcome the new version of OctoGram 2.0.0\n\nWe've essentially rebuilt OctoGram from the ground up, using the default Telegram code. \nWhat does this mean? Quicker updates, and quicker bugfixes!\nThere are plenty of cool new features, like the ability to hide stories, hide dividers dividers, play around with custom emojis, and a bunch more.\n\nFor now, we've put OTA updates on pause (they'll be back on the second release, promise), and third-party translations have been removed (they're not forgotten, though).\n\nFrom this version on, the privacy policy is also available on the site. For more information, scroll to the bottom of the site."
+      },
+      "beta": true
     }
-  },
-  {
-    "version": "2.0.0",
-    "versionCode": 3309,
-    "splash": "https://telegra.ph/file/ca4f141b15b3f8316c58b.png",
-    "files": {
-      "arm64": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.0_3301/OctoGram_arm64.apk",
-      "arm32": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.0_3301/OctoGram_arm32.apk",
-      "x86": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.0_3301/OctoGram_x86.apk",
-      "x86_64": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.0_3301/OctoGram_x86_64.apk",
-      "universal": "https://github.com/OctoGramApp/OctoGram/releases/download/v2.0.0_3301/OctoGram_universal.apk"
-    },
-    "localized_changelogs": {
-      "en": "bla Bla"
-    },
-    "beta": false
-  },
-  {
-    "version": "2.2.0",
-    "versionCode": 3698,
-    "splash": "https://telegra.ph/file/ca4f141b15b3f8316c58b.png",
-    "files": [
-        {
-            "name": "OctoGram-2.2.0-3450-x86_64.apk",
-            "url": "https://github.com/OctoGramApp/OctoGram/releases/download/2.0.0_3309/OctoGram-2.2.0-3450-x86_64.apk",
-            "size_kb": 46910
-        },
-        {
-            "name": "OctoGram-2.2.0-3450-universal.apk",
-            "url": "https://github.com/OctoGramApp/OctoGram/releases/download/2.0.0_3309/OctoGram-2.2.0-3450-universal.apk",
-            "size_kb": 76242
-        },
-        {
-            "name": "OctoGram-2.2.0-3450-x86.apk",
-            "url": "https://github.com/OctoGramApp/OctoGram/releases/download/2.0.0_3309/OctoGram-2.2.0-3450-x86.apk",
-            "size_kb": 47052
-        },
-        {
-            "name": "OctoGram-2.2.0-3450-arm64-v8a.apk",
-            "url": "https://github.com/OctoGramApp/OctoGram/releases/download/2.0.0_3309/OctoGram-2.2.0-3450-arm64-v8a.apk",
-            "size_kb": 45864
-        },
-        {
-            "name": "OctoGram-2.2.0-3450-armeabi-v7a.apk",
-            "url": "https://github.com/OctoGramApp/OctoGram/releases/download/2.0.0_3309/OctoGram-2.2.0-3450-armeabi-v7a.apk",
-            "size_kb": 45628
-        }
-    ],
-    "localized_changelogs": {
-      "it": "bla Bla",
-      "en": "We welcome the new version of OctoGram 2.0.0\n\nWe've essentially rebuilt OctoGram from the ground up, using the default Telegram code. \nWhat does this mean? Quicker updates, and quicker bugfixes!\nThere are plenty of cool new features, like the ability to hide stories, hide dividers dividers, play around with custom emojis, and a bunch more.\n\nFor now, we've put OTA updates on pause (they'll be back on the second release, promise), and third-party translations have been removed (they're not forgotten, though).\n\nFrom this version on, the privacy policy is also available on the site. For more information, scroll to the bottom of the site."
-    },
-    "beta": true
-  }
-]
+  ]
+}
