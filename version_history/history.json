@@ -11,7 +11,7 @@
         "universal": 6,
         "x86": 9,
         "arm64-v8a": 7,
-        "armeabi-v7a": 8
+        "arm-v7a": 8
       },
       "localized_changelogs": {
         "it": "bla Bla",
