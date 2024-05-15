@@ -1,5 +1,22 @@
 {
   "channel_username": "r2YnFscExDf6d3h4wpGy8SbjqPLNk7vh",
   "channel_id": -1002087211608,
-  "versions": []
+  "versions": [
+    {
+      "version": "2.2.1",
+      "versionCode": 3455,
+      "sticker": 40,
+      "files": {
+        "x86_64": 45,
+        "universal": 41,
+        "x86": 44,
+        "arm64-v8a": 42,
+        "arm-v7a": 43
+      },
+      "localized_changelogs": {
+        "en": "We’re introducing a new beta version of OctoGram. This is the first update released as OTA.\n\nSpecifically, in this version you will find:\n- Fixed crash when long pressing on ads\n- Fixed copy image button in restricted groups"
+      },
+      "beta": true
+    }
+  ]
 }
