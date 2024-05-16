@@ -1,14 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Redirect</title>
-    <script>
-        var subdomain = window.location.hostname.split('.')[0];
-        window.location.href = "https://octogram.me";
+    <title>Redirect Page</title>
+    <script type="text/javascript">
+        function redirectToNewDomain() {
+            var path = window.location.pathname.substr(1);
+            window.location.href = 'https://octogram.me/' + path;
+        }
+        window.onload = function() {
+            redirectToNewDomain();
+        };
     </script>
 </head>
 <body>
-    <p>You are being redirected...</p>
+    <p>Redirecting...</p>
 </body>
 </html>
