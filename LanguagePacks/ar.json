@@ -383,7 +383,7 @@
     "UpdatesSettingsHeader": "ابق على اطلاع بٱخر الأخبار من OctoGram.",
     "UpdatesSettingsLinks": "مصادر أخرى",
     "UpdatesSettingsPBeta": "تلقي تحديثات الإصدار التجريبي",
-    "UpdatesSettingsPbetaDescription": "Your main account is part of OctoGram's private beta program.\n\nBy activating this option, you can receive updates from the private beta program directly via OTA like other stable and beta updates, but some updates settings (like \"%s\") will be forcibly activated.",
+    "UpdatesSettingsPbetaDescription": "حسابك الرئيسي هو جزء من برنامج Beta الخاص لـ OctoGram.\n\nبتفعيل هذا الخيار، يمكنك تلقي تحديثات من برنامج بيتا الخاص مباشرة عبر OTA مثل التحديثات الثابتة والتجريبية الأخرى، ولكن سيتم تفعيل بعض إعدادات التحديثات (مثل \"%s\") قسريًا ",
     "UpdatesSettingsVerify": "تحقق",
     "UploadBoost": "رفع التعزيز",
     "UseCameraX": "استخدام الكاميراكس",
