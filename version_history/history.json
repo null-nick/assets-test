@@ -4,6 +4,23 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "2.3.2",
+      "versionCode": 3475,
+      "sticker": 79,
+      "files": {
+        "x86_64": 84,
+        "universal": 80,
+        "x86": 83,
+        "arm64-v8a": 81,
+        "arm-v7a": 82
+      },
+      "localized_changelogs": {
+        "it": "TRADUCI I TUOI MESSAGGI PRIMA DELL'INVIO\nMantieni premuto sul bottone invio per tradurre il tuo messaggio in una lingua coerente con la chat.\nSe vuoi cambiare lingua, mantieni premuto sul bottone traduci nel popup che appare.\n\nMAGGIORI INFORMAZIONI SU UN DATACENTER\nPremi su un datacenter nella sezione Stato Datacenter per visualizzare alcune informazioni aggiuntive, come ultimo momento di down o ultimo momento di lag.\n\nFUNZIONALITÀ MINORI\n- Yandex ora supporta \"Mantieni formattazione\".\n- Nella sezione dispositivi ora appare un logo personalizzato vicino alle sessioni di OctoGram.\n- Risolti diversi crash e problemi minori.",
+        "en": "TRANSLATE YOUR MESSAGES BEFORE SENDING\nHold down on the send button to translate your message into a language consistent with the chat.\nIf you want to change languages, hold down on the translate button in the popup that appears.\n\nMORE INFORMATION ABOUT A DATACENTER\nPress on a datacenter in the Datacenter Status section to see some additional information, such as last down time or last lag time.\n\nMINOR FEATURES\n- Yandex now supports \"Keep Formatting\".\n- A custom logo now appears in the devices section next to OctoGram sessions.\n- Fixed several crashes and minor issues."
+      },
+      "beta": false
+    },
+    {
       "version": "2.3.1",
       "versionCode": 3465,
       "sticker": 58,
