@@ -15,7 +15,7 @@
     "ApplyEmojiSet": "تطبيق مجموعة الرموز التعبيرية",
     "ArchiveHeader": "أرشيف",
     "AreYouSureDeleteXMessages": "هل أنت متأكد أنك تريد حذف سجل الدردشة لهذا المستخدم؟",
-    "AreYouSureDeleteXMessagesMultiple": "Are you sure you want to delete the chat history for %d users?",
+    "AreYouSureDeleteXMessagesMultiple": "هل أنت متأكد أنك تريد حذف سجل الدردشة لـ %d مستخدم؟ ",
     "AssociatedEmoji": "الرموز التعبيرية المرتبطة",
     "AudioTypeInCall": "استخدام النوع في المجموعة",
     "AudioTypeMono": "أحادي (افتراضي)",
@@ -46,7 +46,7 @@
     "CrashDeleted": "تم مسح سجل انهيار واحد",
     "CrashHistory": "سجل الانهيار",
     "CrashHistory_Desc": "عرض سجلات الأعطال والتكوين",
-    "CrashLogCopied": "Crash log copied to clipboard",
+    "CrashLogCopied": "تم نسخ سجل الإنهيار إلى الحافظة",
     "CrashLogInfo": "يتم تخزين سجلات الأعطال محليا على جهازك. يمكنك نسخها إلى الحافظة الخاصة بك أو حذفها عن طريق النقر طويلا.",
     "CrashedOnDate": "تحطم في: %s",
     "CrashesDeleteConfirmation": "هل تريد حذف سجلات الأعطال %s ؟ هذا الإجراء لا رجعة فيه",
@@ -248,7 +248,7 @@
     "OfficialChannel_Desc": "البقاء على علم بالتحديثات الجديدة",
     "OpenArchiveOnPull": "اسحب للأسفل لفتح الأرشيف",
     "OpenArchiveOnPull_Desc": "فتح الأرشيف تلقائياً عند السحب للأسفل",
-    "OpenCrashLog": "Open crash log",
+    "OpenCrashLog": "فتح سجل الإنهيار",
     "PasscodeAlreadyUsed": "رمز المرور مستخدم بالفعل. الرجاء اختيار رمز مرور ٱخر مختلف",
     "PencilIconForEdited": "رمز القلم الرصاص للرسائل المعدلة",
     "PencilIconForEdited_Desc": "هذا سوف يستعاض عن النص \"تعديل\" برمز القلم الرصاص",
@@ -280,7 +280,7 @@
     "SearchIconInHeader": "البحث عن أيقونة في شريط الترويسة",
     "SelectAccountDesc": "اختر الحساب الذي تريد قفله برمز المرور.",
     "SendCrashLog": "إرسال سجل الإنهيار",
-    "SendCrashLogDone": "Crash log has been sent successfully.",
+    "SendCrashLogDone": "تم إرسال سجل الإنهيار بنجاح.",
     "SendLogsButton": "إرسال السجلات",
     "SendMediaPermissionGames": "ألعاب متحركة",
     "SendMediaPermissionGifs": "الصور المتحركة",
@@ -309,7 +309,7 @@
     "StartWithRearCamera": "ابدأ مع الكاميرا الخلفية",
     "StartWithRearCamera_Desc": "بدء تسجيل رسائل الفيديو مع الكاميرا الخلفية بدلاً من الكاميرا الأمامية",
     "StickerSavedHint": "تم حفظ الملصق في المعرض.",
-    "StickerShape": "Sticker Shape",
+    "StickerShape": "شكل الملصق",
     "StickerShapeRounded": "Rounded",
     "StickerSizePreviewMessage1": "أوه، أنا أحب OctoGram 🐙! لقد تعلمت اليوم أنها إيطالية، كم هو رائع!",
     "StickerSizePreviewMessage2": "في إيطاليا يقولون البيتزا 🍕 لذيذة حقًا... متى سنذهب؟",
@@ -319,7 +319,7 @@
     "StickerSizePreviewMessage6": "Cool! I'm going to try it out now!",
     "StickersSizeHeader": "حجم الملصق",
     "StreamAllVideos": "بث جميع الفيديوهات",
-    "StyleTypeDefault": "Default",
+    "StyleTypeDefault": "الإفتراضي",
     "StyleTypeMessage": "Message",
     "TabletMode": "فرض الوضع اللوحي",
     "TabletModeSection": "وضع الجهاز اللوحي",
