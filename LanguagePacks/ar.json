@@ -386,7 +386,7 @@
     "UpdatesSettingsPbetaDescription": "حسابك الرئيسي هو جزء من برنامج Beta الخاص لـ OctoGram.\n\nبتفعيل هذا الخيار، يمكنك تلقي تحديثات من برنامج بيتا الخاص مباشرة عبر OTA مثل التحديثات الثابتة والتجريبية الأخرى، ولكن سيتم تفعيل بعض إعدادات التحديثات (مثل \"%s\") قسريًا ",
     "UpdatesSettingsVerify": "تحقق",
     "UploadBoost": "رفع التعزيز",
-    "UseCameraX": "استخدام الكاميراكس",
+    "UseCameraX": "استخدام CameraX",
     "UseCameraX_Desc": "استخدام كاميراكس بدلاً من API القديمة",
     "UseCustomDeviceName": "استخدم اسما مخصصا",
     "UseCustomDeviceNameDescription": "أدخل أدناه الاسم الذي تريد ربطه بهذا الجهاز. يمكنك أيضًا اختيار استخدام الاسم الافتراضي.",
