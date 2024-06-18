@@ -369,7 +369,7 @@
     "UpdatesPbetaWarning": "يرجى ملاحظة أن التحديث الذي تقوم بتثبيته هو جزء من برنامج Beta الخاص الذي انضممت إليه وقد يكون به عدم استقرار. إذا كان الأمر كذلك، يرجى الإبلاغ عنه في مجموعة الاختبار الداخلية الرسمية لدينا.",
     "UpdatesSettingsAuto": "التحقق تلقائيا",
     "UpdatesSettingsAutoDescription": "في حالة التمكين، سيقوم الخادم بإعلام التطبيق بموعد التحقق من وجود تحديثات جديدة.",
-    "UpdatesSettingsBeta": "تفضل النسخة التجريبية\n",
+    "UpdatesSettingsBeta": "تلقي تحديثات الإصدارات التجريبية\n",
     "UpdatesSettingsCheck": "البحث عن التحديثات",
     "UpdatesSettingsCheckAvailable": "التحديث متاح",
     "UpdatesSettingsCheckButton": "التحقق",
