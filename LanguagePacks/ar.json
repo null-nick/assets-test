@@ -67,7 +67,7 @@
     "DatacenterStatus_Desc": "عرض معلومات إدخال البيانات",
     "DcIdHeader": "مركز البيانات ومعرف المستخدم",
     "DcIdTypeDescription": "Telegram API يعرض المعرفات كما هي، في حين يقدم البوت API علامة \"-\" للمجموعات و ينفق \"-100\" للمجموعات الخارقة، مجموعات البث والقنوات.",
-    "DefaultEmojiButtonType": "حركة زر الرموز التعبيرية",
+    "DefaultEmojiButtonType": "نوع زر الرموز التعبيرية الإفتراضي",
     "DefaultEmojiButtonTypeDefault": "الإفتراضي",
     "DeleteAccount": "حذف الحساب",
     "DeleteAccountContextButton": "حدف هذا الحساب الٱن",
