@@ -4,6 +4,23 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "2.4.1",
+      "versionCode": 3497,
+      "sticker": 97,
+      "files": {
+        "x86_64": 102,
+        "universal": 98,
+        "x86": 101,
+        "arm64-v8a": 99,
+        "arm-v7a": 100
+      },
+      "localized_changelogs": {
+        "it": "RIORGANIZZAZIONE COMPLETA DELLE IMPOSTAZIONI\nStiamo lavorando a una riorganizzazione completa del menu delle impostazioni di OctoGram. La maggior parte dei cambiamenti è già visibile in questa versione stabile, altri arriveranno nella prossima versione.\nAd esempio, il menu dell'aspetto è ora diviso in 3 sezioni principali: \"Chat\", \"Cassetto\", \"Elementi del menu contestuale\".\nMaggiori dettagli in Impostazioni =\u003e Impostazioni di OctoGram =\u003e Aspetto.\n\nCASSETTO PERSONALIZZABILE E ELEMENTI RIORGANIZZABILI\nIl cassetto è ora più personalizzabile che mai. Per quanto riguarda la parte di intestazione del cassetto:\n- si può scegliere lo sfondo (e lo si può scurire o sfocare con una percentuale a piacere),\n- potete nascondere l'immagine del profilo (e potete anche impostarla come sfondo dell'intera intestazione),\n- è possibile scegliere l'opzione preferita che verrà mostrata al posto dell'icona di modifica del tema.\nInoltre, ora è possibile riorganizzare tutti gli elementi del cassetto a proprio piacimento.\n\nLA NAVIGAZIONE ALTERNATIVA È ORA MOLTO PIÙ PERSONALIZZABILE\nLa navigazione alternativa è stata completamente rinnovata ed è ora completamente personalizzabile. \nÈ ora possibile scegliere la fluidità di tutte le animazioni e se attivare alcuni effetti aggiuntivi nella parte superiore delle schermate (barra delle azioni).\n\nCARATTERISTICHE MINORI\n- È ora possibile scegliere i casi in cui gli aggiornamenti verranno scaricati automaticamente. È possibile gestire i download automatici in Impostazioni =\u003e Impostazioni OctoGram =\u003e Aggiornamenti.\n- Forzare l'interfaccia dello smartphone sul tablet o viceversa. Ora in modo più granulare in Impostazioni =\u003e Impostazioni OctoGram =\u003e Opzioni sperimentali.\n- La funzione \"Traduci prima di inviare\" ora ricorda la lingua selezionata ed è disponibile in qualsiasi campo di messaggio dell'app.\n- Ora tutte le opzioni di OctoGram fanno parte della ricerca nelle impostazioni, rendendo più facile trovare qualsiasi opzione in qualsiasi menu.",
+        "en": "COMPLETE SETTINGS REORGANIZATION\nWe are working on a complete reorganization of the OctoGram settings menu. Most of the changes are already visible in this stable, others will come in the next version.\nFor example, the appearance menu is now divided into 3 main sections: \"Chats\", \"Drawer\", \"Context menu Elements\".\nMore details in Settings =\u003e OctoGram Settings =\u003e Appearance.\n\nCUSTOMIZABLE DRAWER AND REARREANGEABLE ITEMS\nThe drawer is now more customizable than ever before. As for the header part of the drawer:\n- you can choose the background (and you can darken or blur it with a percentage to your liking),\n- you can hide the profile picture (and you can also set it as the background of the entire header),\n- you can choose the preferred option that will be shown instead of the theme change icon.\nIn addition, you can now rearrange all the elements in the drawer to your liking.\n\nALTERNATIVE NAVIGATION IS NOW FAR MORE CUSTOMIZABLE\nThe alternative navigation has been completely revamped and is now fully customizable. \nYou can now choose the smoothness of all animations and whether to activate some additional effects at the top of the screens (action bar).\n\nMINOR FEATURES\n- You can now choose the cases in which updates will be downloaded automatically. You can manage automatic downloads at Settings =\u003e OctoGram Settings =\u003e Updates.\n- Force smartphone interface on tablet or vice versa. Now in a more granular way in Settings =\u003e OctoGram Settings =\u003e Experimental Options.\n- \"Translate before sending\" now remembers the selected language and is available in any message field in the app.\n- Now all OctoGram options are part of the search in settings making it easier to find any option in any menu."
+      },
+      "beta": false
+    },
+    {
       "version": "2.3.2",
       "versionCode": 3475,
       "sticker": 79,
