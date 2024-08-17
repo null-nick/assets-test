@@ -4,6 +4,23 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "2.5.0 Beta",
+      "versionCode": 3506,
+      "sticker": 138,
+      "files": {
+        "x86_64": 143,
+        "universal": 139,
+        "x86": 142,
+        "arm64-v8a": 140,
+        "arm-v7a": 141
+      },
+      "localized_changelogs": {
+        "it": "MIGLIORE GESTIONE DELLA CAMERA\nOltre alla possibilità di scegliere CameraX per le tue fotografie, puoi anche scegliere di usare Camera2. Scegli l’opzione più adatta in base al supporto del tuo dispositivo.\n\nNUOVE OPZIONI SPERIMENTALI\nOra puoi:\n- centrare il titolo delle schermate dell’app\n- selezionare lo stile preferito degli switch (Default / Google / OneUI (old) / OneUI (new))\n- selezionare lo stile preferito dei checkbox (Default / Arrotondato / Trasparente)\n\nMIGLIORE SUPPORTO AL BROWSER DI TELEGRAM\nOra puoi aggiungere il browser come elemento del drawer oppure come opzione preferita nella parte alta.\nInoltre, tutte le pagine delle impostazioni di OctoGram vengono ora aperte nel browser di Telegram, se attivo.\n\nNUOVI EFFETTI\nScopri la nuova animazione che si trova nella homepage delle impostazioni di OctoGram.\nC’è un easter egg!",
+        "en": "BETTER CAMERA MANAGEMENT\nIn addition to the option to choose CameraX for your photos, you can also choose to use Camera2. Choose the most suitable option based on your device support.\n\nNEW EXPERIMENTAL OPTIONS\nYou can now:\n- center the title of the app screens\n- select the preferred style of the switches (Default / Google / OneUI (old) / OneUI (new))\n- select the preferred style of the checkboxes (Default / Rounded / Transparent)\n\nBETTER TELEGRAM BROWSER SUPPORT\nYou can now add the browser as a drawer item or as a preferred option at the top.\nAdditionally, all OctoGram settings pages now open in the Telegram browser, if active.\n\nNEW EFFECTS\nDiscover the new animation found on the OctoGram settings homepage.\nThere's an easter egg!"
+      },
+      "beta": true
+    },
+    {
       "version": "2.4.2",
       "versionCode": 3500,
       "sticker": 105,
