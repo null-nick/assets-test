@@ -4,6 +4,23 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "2.5.0 Beta 2",
+      "versionCode": 3510,
+      "sticker": 145,
+      "files": {
+        "x86_64": 150,
+        "universal": 146,
+        "x86": 149,
+        "arm64-v8a": 147,
+        "arm-v7a": 148
+      },
+      "localized_changelogs": {
+        "it": "NUOVA SPLASH SCREEN ANIMATA\nAd ogni apertura dell'app, goditi la nuova animazione di OctoGram! PS: se stai utilizzando Android 13+ ed hai le icone adattive attive, tutto sarà perfettamente in tema!\n\n\"NON CHIEDERE CONFERMA\" NELLE IMPOSTAZIONI BROWSER\nOra puoi scegliere, nelle impostazioni del browser Telegram, quali sono i domini \"sicuri\" per i quali Telegram non chiederà conferma prima dell'apertura.\n\nNUOVE ICONE SOLAR (e modalità \"ICONE MEME\")\nScopri le nuove icone Solar, da oggi disponibili nelle opzioni sperimentali! PS: per te che stai installando una beta c'è anche un easter egg - prova la modalità \"icone meme\"!\n\nCARATTERISTICHE MINORI\n- Abbiamo migliorato l'anteprima del popup per la selezione dello stile dei checkbox e degli switch.\n- Nella sezione camera, ogni singolo camera type selezionato ha la sua descrizione.",
+        "en": "NEW ANIMATED SPLASH SCREEN\nEvery time you open the app, enjoy the new OctoGram animation! PS: If you are using Android 13+ and have adaptive icons enabled, everything will be perfectly in theme!\n\n“DON'T ASK FOR CONFIRMATION” IN BROWSER SETTINGS\nYou can now choose, in your Telegram browser settings, which are the “safe” domains for which Telegram will not ask for confirmation before opening.\n\nNEW SOLAR ICONS (and “MEME ICONS” mode).\nCheck out the new Solar icons, now available in the experimental options! PS: for you who are installing a beta there is also an easter egg - try the “meme icons” mode!\n\nMINOR FEATURES\n- We have improved the popup preview for selecting the style of checkboxes and switches.\n- In the camera section, every single selected camera type has its own description."
+      },
+      "beta": true
+    },
+    {
       "version": "2.5.0 Beta",
       "versionCode": 3506,
       "sticker": 138,
