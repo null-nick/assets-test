@@ -31,13 +31,13 @@
     },
     {
         "name": "Fluent (by Microsoft)",
-        "version": 14,
+        "version": 15,
         "id": "fluent",
-        "preview": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/previews/fluent.png?v=49c8b5cf42af0fc76338e8a45539c3f102259feed3b12cc10296ff947e05c6a1",
-        "file": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/packs/fluent.zip?v=49c8b5cf42af0fc76338e8a45539c3f102259feed3b12cc10296ff947e05c6a1",
-        "file_size": 17591330,
-        "emoji_count": 2966,
-        "md5": "49c8b5cf42af0fc76338e8a45539c3f102259feed3b12cc10296ff947e05c6a1"
+        "preview": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/previews/microsoft-3D-fluent.png?v=701fcd7edc1fa2c8ef44f30c137078213d9f61c3225c032be29751216dbd8c33",
+        "file": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/packs/microsoft-3D-fluent.zip?v=701fcd7edc1fa2c8ef44f30c137078213d9f61c3225c032be29751216dbd8c33",
+        "file_size": 18615696,
+        "emoji_count": 3198,
+        "md5": "701fcd7edc1fa2c8ef44f30c137078213d9f61c3225c032be29751216dbd8c33"
     },
     {
         "name": "Google",
@@ -53,21 +53,21 @@
         "name": "JoyPixels",
         "version": 15,
         "id": "joypixels",
-        "preview": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/previews/joypixels.png?v=5665165df97b4c847d814a3b8cd225b3b4c98e24f901d59494bb008ec294cbf1",
-        "file": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/packs/joypixels.zip?v=5665165df97b4c847d814a3b8cd225b3b4c98e24f901d59494bb008ec294cbf1",
-        "file_size": 17459357,
-        "emoji_count": 2939,
-        "md5": "5665165df97b4c847d814a3b8cd225b3b4c98e24f901d59494bb008ec294cbf1"
+        "preview": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/previews/joypixels.png?v=7f33330c8ceb1f5c3285d9240483d01d85f9f21b396712e66a6ac5df29be3ab9",
+        "file": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/packs/joypixels.zip?v=7f33330c8ceb1f5c3285d9240483d01d85f9f21b396712e66a6ac5df29be3ab9",
+        "file_size": 17480068,
+        "emoji_count": 2945,
+        "md5": "7f33330c8ceb1f5c3285d9240483d01d85f9f21b396712e66a6ac5df29be3ab9"
     },
     {
         "name": "Microsoft",
         "version": 15,
         "id": "microsoft",
-        "preview": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/previews/microsoft.png?v=b2dae624070063dc45e7518609449470536137f2c7346e2849cc06bc7631feba",
-        "file": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/packs/microsoft.zip?v=b2dae624070063dc45e7518609449470536137f2c7346e2849cc06bc7631feba",
-        "file_size": 12734208,
-        "emoji_count": 2686,
-        "md5": "b2dae624070063dc45e7518609449470536137f2c7346e2849cc06bc7631feba"
+        "preview": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/previews/microsoft.png?v=f91951ec022b2bf6a04d4dca19655408b66f4b58d5ed5a61e477a6bd2c1e9e78",
+        "file": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/packs/microsoft.zip?v=f91951ec022b2bf6a04d4dca19655408b66f4b58d5ed5a61e477a6bd2c1e9e78",
+        "file_size": 12758922,
+        "emoji_count": 2695,
+        "md5": "f91951ec022b2bf6a04d4dca19655408b66f4b58d5ed5a61e477a6bd2c1e9e78"
     },
     {
         "name": "OpenMoji",
@@ -103,10 +103,10 @@
         "name": "WhatsApp",
         "version": 15,
         "id": "whatsapp",
-        "preview": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/previews/whatsapp.png?v=5890bff35d37a3dbcbdbba7fdf3f3d2a02db8073566cedddc421ae063593f22a",
-        "file": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/packs/whatsapp.zip?v=5890bff35d37a3dbcbdbba7fdf3f3d2a02db8073566cedddc421ae063593f22a",
-        "file_size": 19653684,
+        "preview": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/previews/whatsapp.png?v=c066e47779124e87de7af458cbc0f6bd3b33d6e0541fe44f0d9b08e3a2287bbc",
+        "file": "https://raw.githubusercontent.com/OctoGramApp/assets/emojiPacks/EmojiPacks/packs/whatsapp.zip?v=c066e47779124e87de7af458cbc0f6bd3b33d6e0541fe44f0d9b08e3a2287bbc",
+        "file_size": 19642525,
         "emoji_count": 2949,
-        "md5": "5890bff35d37a3dbcbdbba7fdf3f3d2a02db8073566cedddc421ae063593f22a"
+        "md5": "c066e47779124e87de7af458cbc0f6bd3b33d6e0541fe44f0d9b08e3a2287bbc"
     }
 ]
