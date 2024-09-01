@@ -4,6 +4,23 @@
   "pbeta_sticker_id": 46,
   "versions": [
     {
+      "version": "2.5.0",
+      "versionCode": 3520,
+      "sticker": 166,
+      "files": {
+        "x86_64": 171,
+        "universal": 167,
+        "x86": 170,
+        "arm64-v8a": 168,
+        "arm-v7a": 169
+      },
+      "localized_changelogs": {
+        "it": "TITOLO CENTRATO\nÈ ora possibile scegliere di centrare il titolo nell'app, proprio come avviene da sempre su Telegram per iOS. Inoltre, è possibile scegliere se centrarlo ovunque o solo nelle chat o solo nelle impostazioni.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Opzioni sperimentali.\n\nDESIGN PERSONALIZZABILE DEGLI INTERRUTTORI E CASELLE DI CONTROLLO\nOra potete scegliere lo stile che preferite per gli interruttori e le caselle di controllo che si applicheranno ovunque all'interno dell'app.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Opzioni sperimentali.\n\nNON CHIEDERE MAI CONFERMA NELLE IMPOSTAZIONI DEL BROWSER\nÈ ora possibile aggiungere un elenco di domini preferiti per i quali l'app non chiederà conferma prima dell'apertura.\nSi noti che lo stesso comportamento si applica già all'elenco di domini che fanno parte della whitelist ufficiale di Telegram.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni Chat =\u003e Browser In-App =\u003e Non chiedere mai conferma.\n\nICONE SOLARI E MD3\nOra potete scegliere il vostro set di icone preferite che appariranno in tutta l'app.\nMaggiori dettagli in Impostazioni =\u003e Impostazioni OctoGram =\u003e Opzioni sperimentali.\n\nMIGLIORE GESTIONE DELLA FOTOCAMERA\nOltre alla possibilità di scegliere CameraX per le vostre foto, potete anche scegliere di utilizzare Camera2. Scegliete l'opzione più adatta in base al supporto del vostro dispositivo.\n\nMIGLIORE SUPPORTO DEL BROWSER TELEGRAM\nÈ ora possibile aggiungere il browser come elemento del cassetto o come opzione preferita in alto.\nInoltre, tutte le pagine delle impostazioni di OctoGram si aprono ora nel browser di Telegram, se attivo.\n\nNUOVI EFFETTI\nScoprite la nuova animazione presente nella homepage delle impostazioni di OctoGram.\nC'è un easter egg!",
+        "en": "CENTERED TITLE\nYou can now choose to centre the title in the app, just as it has been on Telegram for iOS since forever. Furthermore, you can choose whether to centre it everywhere or only in chats or only in settings.\nMore details in Settings =\u003e OctoGram Settings =\u003e Experimental Options.\n\nCUSTOMIZABLE SWITCHES \u0026 CHECKBOXES DESIGN\nNow you can choose the style you prefer for the switches and checkboxes that will apply everywhere within the app.\nMore details in Settings =\u003e OctoGram Settings =\u003e Experimental Options.\n\nNEVER ASK FOR CONFIRMATION IN BROWSER SETTINGS\nYou can now add a list of favourite domains for which the app will not ask for confirmation before opening.\nPlease note that the same behaviour already applies to the list of domains that are part of the official Telegram whitelist.\nMore details in Settings =\u003e Chat Settings =\u003e In-App Browser =\u003e Never ask for confirmation.\n\nSOLAR \u0026 MD3 ICONS\nNow you can choose your favourite set of icons that will appear throughout the app.\nMore details in Settings =\u003e OctoGram Settings =\u003e Experimental Options.\n\nBETTER CAMERA MANAGEMENT\nIn addition to the option to choose CameraX for your photos, you can also choose to use Camera2. Choose the most suitable option based on your device support.\n\nBETTER TELEGRAM BROWSER SUPPORT\nYou can now add the browser as a drawer item or as a preferred option at the top.\nAdditionally, all OctoGram settings pages now open in the Telegram browser, if active.\n\nNEW EFFECTS\nDiscover the new animation found on the OctoGram settings homepage.\nThere's an easter egg!"
+      },
+      "beta": false
+    },
+    {
       "version": "2.5.0 Beta 2",
       "versionCode": 3510,
       "sticker": 145,
